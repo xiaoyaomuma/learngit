@@ -43,7 +43,4 @@ HEAD指向的版本就是当前版本，因此，Git允许我们在版本的历�
 
 $ ssh-keygen -t rsa -C "youremail@example.com"     公钥和私钥会存放在c盘注意一下
 
-
-
-
-
+ceshi
